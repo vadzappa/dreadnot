@@ -1,7 +1,6 @@
 {
+    "name": "dreadnot",
     "version": "0.1.6",
-    "from": "git://github.com/pipedrive/dreadnot.git#9039cd4191eecc5d3ec7f846da120399857b86f7",
-    "resolved": "git://github.com/pipedrive/dreadnot.git#9039cd4191eecc5d3ec7f846da120399857b86f7",
     "dependencies": {
         "async": {
             "version": "0.1.12",
